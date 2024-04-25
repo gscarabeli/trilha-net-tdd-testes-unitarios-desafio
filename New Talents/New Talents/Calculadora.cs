@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace NewTalents
+namespace New_Talents
 {
     public class Calculadora
     {
