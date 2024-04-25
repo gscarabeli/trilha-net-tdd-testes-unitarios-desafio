@@ -1,0 +1,13 @@
+D:\Projects\trilha-net-tdd-testes-unitarios-desafio\New Talents\New Talents\bin\Debug\netcoreapp3.1\NewTalents.exe
+D:\Projects\trilha-net-tdd-testes-unitarios-desafio\New Talents\New Talents\bin\Debug\netcoreapp3.1\NewTalents.deps.json
+D:\Projects\trilha-net-tdd-testes-unitarios-desafio\New Talents\New Talents\bin\Debug\netcoreapp3.1\NewTalents.runtimeconfig.json
+D:\Projects\trilha-net-tdd-testes-unitarios-desafio\New Talents\New Talents\bin\Debug\netcoreapp3.1\NewTalents.runtimeconfig.dev.json
+D:\Projects\trilha-net-tdd-testes-unitarios-desafio\New Talents\New Talents\bin\Debug\netcoreapp3.1\NewTalents.dll
+D:\Projects\trilha-net-tdd-testes-unitarios-desafio\New Talents\New Talents\bin\Debug\netcoreapp3.1\NewTalents.pdb
+D:\Projects\trilha-net-tdd-testes-unitarios-desafio\New Talents\New Talents\obj\Debug\netcoreapp3.1\NewTalents.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\trilha-net-tdd-testes-unitarios-desafio\New Talents\New Talents\obj\Debug\netcoreapp3.1\NewTalents.AssemblyInfoInputs.cache
+D:\Projects\trilha-net-tdd-testes-unitarios-desafio\New Talents\New Talents\obj\Debug\netcoreapp3.1\NewTalents.AssemblyInfo.cs
+D:\Projects\trilha-net-tdd-testes-unitarios-desafio\New Talents\New Talents\obj\Debug\netcoreapp3.1\NewTalents.csproj.CoreCompileInputs.cache
+D:\Projects\trilha-net-tdd-testes-unitarios-desafio\New Talents\New Talents\obj\Debug\netcoreapp3.1\NewTalents.dll
+D:\Projects\trilha-net-tdd-testes-unitarios-desafio\New Talents\New Talents\obj\Debug\netcoreapp3.1\NewTalents.pdb
+D:\Projects\trilha-net-tdd-testes-unitarios-desafio\New Talents\New Talents\obj\Debug\netcoreapp3.1\NewTalents.genruntimeconfig.cache
